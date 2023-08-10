@@ -8,5 +8,9 @@ There is also a galery section where you can see the beautifull pictures of all 
 This website also has the admin login admin can get the information of the customers, travel agents, also can add new places, hotels.
 There is cool and nice booking page where you can book your tour by entering your details.
 This website also has a feedback section where you can give your feedback to the developer.
+For Admin
+user name:admin password: ad123
+for user:
+user name: Milan Password: Johnwic1
 
 Thank You....
